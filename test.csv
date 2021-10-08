@@ -1,7 +1,5 @@
-number,email
-1,karanchouhanihn@gmail.com
-2,suryansh@ecell.in
-3,manasvi@ecell.in
-4,neeraj@ecell.in
-5,karan@ecell.in
-6,ishan@ecell.in
+email,name,number,statu
+karanchouhanihn@gmail.com,karan,7610914000,undefined
+karan@ecell.in,karan,7610914000,undefined
+praroop@ecell.in,praroop,7610914000,undefined
+
